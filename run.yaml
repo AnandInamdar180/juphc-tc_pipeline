@@ -25,4 +25,4 @@ spec:
       value: "main"
 
     - name: app-name
-      value: "tax-calculator"
+      value: "tax_calculator"
